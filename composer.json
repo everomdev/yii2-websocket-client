@@ -1,0 +1,21 @@
+{
+    "name": "everom/yii2-websocket-client",
+    "description": "yii2-websocket-client",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Everom",
+            "email": "info@everom.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Paragi\\PhpWebsocket\\": ""
+        }
+    }
+}
